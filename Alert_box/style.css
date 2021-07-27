@@ -8,5 +8,6 @@ body{
 .alert{
 	border-radius: 0px !important;
 	border-width: 1px !important;
+	border-color: #949494 !important;
 }
 /*---------------------------*/
