@@ -1,6 +1,6 @@
-﻿//<!-- LINK CODE START -->
-document.write('<link rel="stylesheet" type="text/css" href="https://saifkhaki.github.io/JS-Widgets/Alert Box/style.css">');
-document.write('<script type="text/javascript" src="https://saifkhaki.github.io/JS-Widgets/Alert Box/create_widget.js"></script>');
+//<!-- LINK CODE START -->
+document.write('<link rel="stylesheet" type="text/css" href="style.css">');
+document.write('<script type="text/javascript" src="create_widget.js"></script>');
 
 document.write('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">');
 document.write('<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>');
