@@ -1,5 +1,5 @@
 ﻿var widget_content = "";
-widget_content += ('<div id="widget" style="width:' + wWidth + '; background-color: transparent;" >');
+widget_content += ('<div id="widget" style="width:' + wWidth + '; background-color: #18191a;" >');
 //<!-- WIDGET HTML CODE START -->
 widget_content += ('<div class="alert alert-' + wAlertType + '" role="alert">' + wText + '</div>');
 //<!---------------------------->
