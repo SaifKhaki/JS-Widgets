@@ -5,5 +5,8 @@ body{
 	font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 /*-- STYLE CODE START HERE --*/
-
+.alert{
+	border-radius: 0px !important;
+	border-width: 1px !important;
+}
 /*---------------------------*/
