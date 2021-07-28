@@ -1,10 +1,10 @@
-﻿// jquery 3
+// jquery 3
 document.write('<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>');
 
 //<!-- LINK CODE START -->
-document.write('<link rel="stylesheet" type="text/css" href="style.css">');
-document.write('<script type="text/javascript" src="create_widget.js"></script>');
-document.write('<script type="text/javascript" src="animation.js"></script>');
+document.write('<link rel="stylesheet" type="text/css" href="https://saifkhaki.github.io/JS-Widgets/Toggle_text/style.css">');
+document.write('<script type="text/javascript" src="https://saifkhaki.github.io/JS-Widgets/Toggle_text/create_widget.js"></script>');
+document.write('<script type="text/javascript" src="https://saifkhaki.github.io/JS-Widgets/Toggle_text/animation.js"></script>');
 //<!--------------------->
 
 // bootstrap 4
